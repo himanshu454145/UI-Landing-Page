@@ -1,2 +1,2 @@
 # UI-Landing-Page
-It is a basic Landing Page written only in HTML and CSS
+This is a simple yet elegant landing page designed with pure HTML and CSS."
